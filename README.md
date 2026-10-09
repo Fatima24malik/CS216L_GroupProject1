@@ -40,16 +40,16 @@ The Student Record System is a Java console-based application designed to manage
 ## Project Structure
 
 ```text
-StudentRecordSystem/
+CS216L_GroupProject1/
 ├── StudentRecordSystem.java
-├── Student.java
+├── student.java
 ├── LinkedList.java
 ├── Stack.java
 ├── README.md
-└── screenshots/
-    ├── screenshot1.png
-    ├── screenshot2.png
-    └── screenshot3.png
+├── ss1.PNG
+├── ss2.PNG
+├── ss3.PNG
+└── ss4.PNG
 ```
 
 ## Technologies Used
@@ -71,7 +71,7 @@ StudentRecordSystem/
 5. Compile the program:
 
    ```bash
-   javac Student.java LinkedList.java Stack.java StudentRecordSystem.java
+   javac student.java LinkedList.java Stack.java StudentRecordSystem.java
    ```
 
 6. Run the program:
@@ -79,14 +79,12 @@ StudentRecordSystem/
    ```bash
    java StudentRecordSystem
    ```
-
 ## Group Members
 
-* Member 1: Nishat Afreen
-* Member 2: Fatima Safdar
-* Member 3: Mamoona Waqar
+* Nishat Afreen
+* Fatima Safdar
+* Mamoona Waqar
 
 ## GitHub Repository
-(https://github.com/bscs14f2530-ui/CS216L_GroupProject1)
 
-
+[CS216L_GroupProject1](https://github.com/bscs14f2530-ui/CS216L_GroupProject1)
