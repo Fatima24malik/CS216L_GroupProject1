@@ -88,5 +88,5 @@ StudentRecordSystem/
 
 ## GitHub Repository
 (https://github.com/bscs14f2530-ui/CS216L_GroupProject1)
-(https://github.com/bscs14f2530-ui/CS216L_GroupProject1)
+
 
